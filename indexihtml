@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Our Solar System</title>
+        <h1>The Solar System</h1>
+    </head>
+    <body>
+        <p> The Solar System, a vast expanse of space that contains one star-the Sun and all the other countless bodies orbiting it.
+            This includes the eight planets, their moons, dwarf planets and many asteroids, comets, debris and icy matter.
+            In the solar sytem there are two belts: the asteroid belt between Mars and Jupiter and the Kuprion belt that surrounds the whole solar sytem with asteroids and other bodies.
+            The eight planets in order from the Sun are: 
+            <li>
+                Mercury
+            </li>
+            <li>
+               Venus
+            </li>
+            <li>
+                Earth
+            </li>
+            <li>
+                Mars
+            </li>
+            <li>
+                Jupiter
+            </li>
+            <li>
+                Saturn
+            </li>
+            <li>
+                Uranus
+            </li>
+            <li>
+               Neptune
+            </li>
+            Jupiter is the largest planet and has the shortest days.
+            Venus is the hottest planet and has the longest days.
+            Mercury is the smallest planet and is even smaller than Jupiter's largest moon,Ganymede.
+            Earth is the only planet with life as we know it.
+            Saturn has the most moons of any planet and has large rings surrounding it made of debris and asteroids.
+            Mars is the red planet that is said to used to have life.
+            Uranus is an ice planet, has small rings, is the oly planet that is sideways and smells of rotten eggs.
+            Neptune is the coldest planet with the strongest winds in the solar system.
+        </p>
+        <script>
+            let name = "Aarush";
+            let favouriteSubject = "Geography";
+            let grade = 6;
+            document.write(`My name is ${name}. I study in grade ${grade}. My favourite Subject is ${favouriteSubject}.`);
+            
+        </script>
+    </body>
+</html>
